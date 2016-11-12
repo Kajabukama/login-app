@@ -1,0 +1,25 @@
+{
+  "name": "login-app",
+  "homepage": "https://github.com/Kajabukama/login-app",
+  "description": "login application using angularjs, materializecss, Mysql/PDO + PHP",
+  "main": "main.js",
+  "keywords": [
+    "materializecss",
+    "php",
+    "pdo",
+    "mysql",
+    "angularjs"
+  ],
+  "authors": [
+    "Yusuph H Kajabukama"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
